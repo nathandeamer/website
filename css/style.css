@@ -387,6 +387,10 @@ section h3.section-subheading {
     background-color: #6f8ab5;*/
 }
 
+nav.navbar-shrink .navbar-brand span {
+  color: #6f8ab5;
+}
+
 header {
     text-align: center;
     color: #fefefe;
