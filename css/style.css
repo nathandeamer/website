@@ -13,6 +13,10 @@ p.large {
     font-size: 16px;
 }
 
+td.valign_top {
+  vertical-align: top;
+}
+
 .text-dark {
     color: #5e5c5d;
 }
