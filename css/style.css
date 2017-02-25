@@ -559,6 +559,10 @@ section#cv {
     text-align: left;
 }
 
+.nathandeamerltd {
+    margin-top: 15px;
+}
+
 .timeline>li .timeline-panel:before {
     right: auto;
     left: -15px;
@@ -874,6 +878,10 @@ ul.social-buttons li a:active {
         padding-left: 130px;
     }
 
+    .nathandeamerltd {
+        margin-top: 30px;
+    }
+
     .timeline>li .timeline-image {
         width: 100px;
         height: 100px;
@@ -919,9 +927,13 @@ ul.social-buttons li a:active {
         padding-left: 200px;
     }
 
-	.timeline:before {
-      left: 75px;
+    .nathandeamerltd {
+        margin-top: 50px;
     }
+
+	  .timeline:before {
+        left: 75px;
+     }
 
     .timeline>li .timeline-image {
         width: 150px;
